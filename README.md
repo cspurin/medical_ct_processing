@@ -48,3 +48,8 @@ Some examples of this are in the following paper:
 The role of injection method on residual trapping: Insights into bridging
 scales and heterogeneity
 https://doi.org/10.1016/j.advwatres.2025.104913
+
+## Impact of averaging multiple images
+
+![image](https://github.com/user-attachments/assets/529306f6-02c4-4485-b682-643c2242776b)
+
