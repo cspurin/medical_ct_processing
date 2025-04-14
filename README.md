@@ -1,5 +1,7 @@
 # Medical CT image processing 
 
+The code to use is the pressure integration jupyter notebook. This has the automated centering script. The other files are for manual selection of centering parameters. 
+
 A Python library for processing and analyzing DICOM images of rock samples in CT scans.
 
 ## Overview
